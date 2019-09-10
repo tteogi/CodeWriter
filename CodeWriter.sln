@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeWriter", "core\CodeWriter\CodeWriter.csproj", "{C5791A55-2544-4C5A-9DE0-CEC51F143A5C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeWriter.Core", "core\CodeWriter.Core\CodeWriter.Core.csproj", "{C5791A55-2544-4C5A-9DE0-CEC51F143A5C}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{1FCD771B-11F3-4BD4-9BDF-E36195FD3C2C}"
 EndProject
