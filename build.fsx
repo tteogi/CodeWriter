@@ -20,7 +20,7 @@ open Fake.DotNet
 open Fake.DotNet.NuGet
 
 
-let nugetApiKye = "oy2ejb6lhkzh7d2zav5atjfiocskyyeuxdazii2znduk3e"
+let nugetApiKye = "oy2cowhrg7rhgde6bhkqguilqmzbtnqunc3fydjfh77dma"
 let buildDir = "./build/"
 let testDir  = "./test/"
 let configuration = DotNet.BuildConfiguration.Release
